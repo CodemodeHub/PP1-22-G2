@@ -1,0 +1,7 @@
+6
+Messi 35 3 1
+Mbappe 23 5 2
+Gakpo 23 3 0
+Giroud 36 3 0
+Morata 30 3 1 
+Bruno 28 2 3
